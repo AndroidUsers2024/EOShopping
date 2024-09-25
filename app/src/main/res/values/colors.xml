@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Primary">#FAF54702</color>
+    <color name="accent">#FAF54702</color>
+    <color name="gry">#E2AAA7A4</color>
+    <color name="blueGre">#E266B1B1</color>
+    <color name="red">#FF0938</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorStart">#FF9800</color>
+    <color name="colorEnd">#FF5722</color>
+</resources>
